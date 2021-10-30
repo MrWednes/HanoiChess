@@ -38,7 +38,7 @@ A board game based on Tower of Hanoi <br>
 <img src="https://user-images.githubusercontent.com/44434820/139524129-5beb1437-8af8-4e34-95a5-77a6a9c0966f.png" width="800" />
 
 ### 代码设计细则
-面向对象编程，共有11各类构成，其职责分别如下 <br>
+面向对象编程，共有11个类构成，其职责分别如下 <br>
 HanoiChess 汉诺棋类：程序主入口，负责游戏初始化，模式选择，交替行棋 <br>
 Board 棋盘类：负责交点的存储，棋盘的展示 <br>
 Cross 交点类：负责棋子的存储 <br>
